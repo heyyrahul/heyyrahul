@@ -23,7 +23,7 @@ I'm a passionate Frontend Developer specializing in React. I enjoy creating enga
 - **Location:** City, Country
 
 ## GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyyrahul&show_icons=true&locale=en" alt="heyyrahul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyyrahul&show_icons=true&locale=en&theme=dark" alt="heyyrahul" /></p>
 
 ## Pinned Repositories
 1. **Project 1**
