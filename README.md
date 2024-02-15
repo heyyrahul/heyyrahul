@@ -12,8 +12,7 @@ I'm a passionate Frontend Developer specializing in React. I enjoy creating enga
 - **GitHub Repo:** [SyLoan GitHub Repo](https://github.com/heyyrahul/python-magician-6789)
 
 ### TravelBee
-- **Description:**About
-TravelBee is a website designed to make travel planning easy and convenient.
+- **Description:**TravelBee is a website designed to make travel planning easy and convenient.
 - **Live Demo:** [TravelBee Live Demo](https://travel-bee-1.netlify.app/)
 - **GitHub Repo:** [TravelBee GitHub Repo](https://github.com/heyyrahul/code-rhapsody-3467)
 
