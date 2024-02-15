@@ -16,9 +16,9 @@ I'm a passionate Frontend Developer specializing in React. I enjoy creating enga
 - **Location:** Faridabad, Haryana
 
 ## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyyrahul&show_icons=true&locale=en&layout=compact" alt="heyyrahul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyyrahul&show_icons=true&locale=en&layout=compact&theme=dark" alt="heyyrahul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyyrahul&show_icons=true&locale=en" alt="heyyrahul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyyrahul&show_icons=true&locale=en&theme=dark" alt="heyyrahul" /></p>
 
 ## Pinned Repositories
 1. **SyLoan**
