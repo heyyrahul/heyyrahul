@@ -1,32 +1,44 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">I am a passionate and detail-oriented developer with expertise in front-end technologies like React, JavaScript, and CSS. I also have experience in version control using Git and creating 
+# Hi there, I'm Rahul Kumar! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyyrahul" alt="heyyrahul" /></a> </p>
+I'm a passionate Frontend Developer specializing in React. I enjoy creating engaging and user-friendly web applications using modern technologies.
 
-- 🔭 I’m currently working on [SyLoan](https://syloan.netlify.app/)
+## Technical Skills
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Responsive Web Design](https://img.shields.io/badge/-Responsive_Web_Design-black?style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 
-- 👨‍💻 All of my projects are available at [https://heyyrahul.github.io/portfolio/](https://heyyrahul.github.io/portfolio/)
+## Projects
+### SyLoan
+- **Description:** A web application for managing loans.
+- **Live Demo:** [SyLoan Live Demo](https://syloan.github.io)
+- **GitHub Repo:** [SyLoan GitHub Repo](https://github.com/syloan)
 
-- 💬 Ask me about **React, JavaSricpt,HTML,CSS,Tailwind,Bootstrap**
+## Contact Me
+- **LinkedIn:** [Rahul Kumar](https://www.linkedin.com/in/rahulkumar)
+- **Portfolio:** [rahulkumar.github.io](https://rahulkumar.github.io)
+- **Email:** rahulkumar@example.com
+- **Location:** City, Country
 
-- 📫 How to reach me **kamat2316@gmail.com**
+## GitHub Stats
+![Rahul Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkumar&show_icons=true&theme=dark)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t04tncU2DQ2mLUcIMlgYBG7jyQ-6yww7/view?usp=sharing](https://drive.google.com/file/d/1t04tncU2DQ2mLUcIMlgYBG7jyQ-6yww7/view?usp=sharing)
+## Pinned Repositories
+1. **Project 1**
+   - **Description:** A React project showcasing my skills.
+   - **Deployed Link:** [Project 1 Live Demo](https://rahulkumar.github.io/project1-demo)
+   - **GitHub Repo:** [Project 1 GitHub Repo](https://github.com/rahulkumar/project1-demo)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/heyy_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyy_rahul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/heyyrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyyrahul" height="30" width="40" /></a>
-<a href="https://instagram.com/heyy.rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyy.rahul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rkkamat9213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rkkamat9213" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/heyyrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyyrahul" height="30" width="40" /></a>
-</p>
+2. **Project 2**
+   - **Description:** A JavaScript project demonstrating my proficiency.
+   - **Deployed Link:** [Project 2 Live Demo](https://rahulkumar.github.io/project2-demo)
+   - **GitHub Repo:** [Project 2 GitHub Repo](https://github.com/rahulkumar/project2-demo)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyyrahul&show_icons=true&locale=en&layout=compact" alt="heyyrahul" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyyrahul&show_icons=true&locale=en" alt="heyyrahul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyyrahul&" alt="heyyrahul" /></p>
+3. **Project 3**
+   - **Description:** A project highlighting my CSS3 and HTML5 abilities.
+   - **Deployed Link:** [Project 3 Live Demo](https://rahulkumar.github.io/project3-demo)
+   - **GitHub Repo:** [Project 3 GitHub Repo](https://github.com/rahulkumar/project3-demo)
