@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">I am a passionate and detail-oriented developer with expertise in front-end technologies like React, JavaScript, and CSS. I also have experience in version control using Git and creating responsive web designs using frameworks like Tailwind and Bootstrap. I am a team player with excellent problem-solving skills and effective communication abilities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heyyrahul&label=Profile%20views&color=0e75b6&style=flat" alt="heyyrahul" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D5603AQHv-9kRZDFKeA/profile-displayphoto-shrink_800_800/0/1707425764777?e=1713398400&v=beta&t=Azc6bzUJhnEhBmveMvBP3FTVOoPDqFk_6sjqlTBlGDc" alt="heyyrahul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyyrahul" alt="heyyrahul" /></a> </p>
 
