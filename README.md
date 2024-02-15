@@ -1,3 +1,5 @@
+
+![Profile Views](https://komarev.com/ghpvc/?username=heyyrahul)
 # Hi there, I'm Rahul Kumar! 👋
 
 I'm a passionate Frontend Developer specializing in React. I enjoy creating engaging and user-friendly web applications using modern technologies.
