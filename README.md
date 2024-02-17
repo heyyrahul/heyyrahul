@@ -16,6 +16,9 @@ I am a passionate and detail-oriented developer with expertise in front-end tech
 - **Email:** kamat2316@gmail.com
 - **Location:** Faridabad, Haryana
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyyrahul" alt="heyyrahul" /></a> </p>
+
+
 ## GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyyrahul&show_icons=true&locale=en&layout=compact&theme=dark" alt="heyyrahul" /></p>
 
