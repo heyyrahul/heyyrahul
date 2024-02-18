@@ -1,3 +1,4 @@
+![banner](https://github.com/heyyrahul/python-magician-6789/assets/79692865/4b74b044-48d2-4acf-a6bc-1a25904d9145)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heyyrahul)
 # Hi there, I'm Rahul Kumar! 👋
