@@ -13,14 +13,14 @@ I am a passionate and detail-oriented developer with expertise in front-end tech
 <img align ="right" alt="coding" width = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## Pinned Repositories
-1. **SyLoan**
+1. **EpicBazaar**
+   - **Description:**  An Ecommerce Platform for shopping.
+   - **Deployed Link:** [Epicbazaar Live Demo](https://epicbazaar.vercel.app/)
+   - **GitHub Repo:** [Epicbazaar GitHub Repo](https://github.com/heyyrahul/epicbazaar)
+2.  **SyLoan**
    - **Description:**  A web application for managing loans.
    - **Deployed Link:** [SyLoan Live Demo](https://syloan.netlify.app/)
    - **GitHub Repo:** [SyLoan GitHub Repo](https://github.com/heyyrahul/python-magician-6789)
-2. **TravelBee**
-   - **Description:**  TravelBee is a website designed to make travel planning easy and convenient.
-   - **Deployed Link:** [TravelBee Live Demo](https://travel-bee-1.netlify.app/)
-   - **GitHub Repo:**  [TravelBee GitHub Repo](https://github.com/heyyrahul/code-rhapsody-3467)
 
 3. **Vivid-Roll**
    - **Description:** This project is the clone of figma design.
