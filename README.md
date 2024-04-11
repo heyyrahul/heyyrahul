@@ -13,19 +13,19 @@ I am a passionate and detail-oriented developer with expertise in front-end tech
 
 
 ## Pinned Repositories
-1. **EpicBazaar**
+1. **PetPals**
+   - **Description:**  A Pet Adoption website for Pet Lovers.
+   - **Deployed Link:** [PetPals Live Demo](https://petpals-masai.vercel.app/)
+   - **GitHub Repo:** [PetPals GitHub Repo](https://github.com/sumit1921184/PetPals)
+2.  **EpicBazaar**
    - **Description:**  An Ecommerce Platform for shopping.
    - **Deployed Link:** [Epicbazaar Live Demo](https://epicbazaar.vercel.app/)
    - **GitHub Repo:** [Epicbazaar GitHub Repo](https://github.com/heyyrahul/epicbazaar)
-2.  **SyLoan**
+
+3. **SyLoan**
    - **Description:**  A web application for managing loans.
    - **Deployed Link:** [SyLoan Live Demo](https://syloan.netlify.app/)
    - **GitHub Repo:** [SyLoan GitHub Repo](https://github.com/heyyrahul/python-magician-6789)
-
-3. **Vivid-Roll**
-   - **Description:** This project is the clone of figma design.
-   - **Deployed Link:** [Vivid-Roll](https://vivid-roll-405.netlify.app/)
-   - **GitHub Repo:** [Vivid-Roll](https://github.com/heyyrahul/vivid-roll-405)
 
 
 
