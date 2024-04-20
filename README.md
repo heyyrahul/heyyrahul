@@ -42,5 +42,5 @@ I am a passionate and detail-oriented developer with expertise in front-end tech
 ## Contact Me
 - **LinkedIn:** [Rahul Kumar](https://www.linkedin.com/in/heyyrahul/)
 - **Portfolio:** [Rahul Kumar](https://heyyrahul.github.io)
-- **Email:** kamat2316@gmail.com
+- **Email:** rkkamat9213@gmail.com
 - **Location:** Faridabad, Haryana
