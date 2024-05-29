@@ -37,7 +37,7 @@ I am a passionate and detail-oriented developer with expertise in front-end tech
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyyrahul&show_icons=true&locale=en&theme=dark" alt="heyyrahul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyyrahul&" alt="heyyrahul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyyrahul&theme=dark" alt="heyyrahul" /></p>
 
 ## Contact Me
 - **LinkedIn:** [Rahul Kumar](https://www.linkedin.com/in/heyyrahul/)
